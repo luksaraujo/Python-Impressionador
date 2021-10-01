@@ -13,7 +13,7 @@ Este repositório foi criado para armazenar os códigos e materiais desenvolvido
 - [x] Strings - Textos e a importância no Python
 - [x] Listas no Python - Métodos e Usos
 - [x] For - Estruturas de Repetição
-- [ ] While e Loops Infinitos
+- [x] While e Loops Infinitos
 - [ ] Tuplas - Uma lista muito "útil" e imutável
 - [ ] Dicionários em Python
 - [ ] Iterables
